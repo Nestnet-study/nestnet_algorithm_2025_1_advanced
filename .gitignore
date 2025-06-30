@@ -7,4 +7,5 @@ input.txt
 !*.c
 !*.cpp
 !*.py
+!*.js
 !*.md
