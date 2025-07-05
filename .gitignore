@@ -2,6 +2,11 @@
 Study*
 .vs
 input.txt
+
+nestnet_.E0998F5E
+x64
+*.sln
+*.vcxproj*
 # 예외 처리 (필요한 파일 형식만 포함)
 !*.java
 !*.c
