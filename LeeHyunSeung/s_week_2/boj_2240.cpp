@@ -67,7 +67,7 @@ int main() {
 		int pos = min(cur.t + 2, p_size);
 		value = visited[cur.t][cur.w] + p_sum[cur.t + 2];
 
-		if (value > visited[pos][cur.w] < value) {
+		if (value > visited[pos][cur.w]) {
 			q.push({ pos, cur.w });
 			visited[pos][cur.w] = value;
 		}
