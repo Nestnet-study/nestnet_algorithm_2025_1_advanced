@@ -100,4 +100,3 @@ while q:
             q.append((nrx, nry, nbx, nby, depth + 1))
 
 print(-1)
-
