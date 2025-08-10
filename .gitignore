@@ -1,7 +1,7 @@
 # 모든 파일 무시
 Study*
 .vs
-input.txt
+*.txt
 
 nestnet_.E0998F5E
 x64
